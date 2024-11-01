@@ -1,5 +1,9 @@
 # Training Process Reward Model for Mathematical Reasoning
 
+## Overview
+
+We provide a training script for the Math-Shepherd-like reward model.
+
 ## Dataset Preparation
 Please prepare a JSON file with the following format:
 ```
