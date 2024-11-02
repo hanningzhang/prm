@@ -57,7 +57,7 @@ good_token = ' +'
 bad_token = ' -'
 step_tag = 'ки'
 
-path = "Your-Model-Path"
+path = "HanningZhang/Llama3.1-Math-PRM"
 tokenizer = AutoTokenizer.from_pretrained(path)
 plus_tag_id = tokenizer.encode(' +')[-1]
 minus_tag_id = tokenizer.encode(' -')[-1]
