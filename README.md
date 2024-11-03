@@ -32,6 +32,8 @@ The length of the list must be the same as the number of `ки`, as we want to t
 
 We also provide a sample dataset `sample_dataset.json` for reference.
 
+**For the full dataset, please go to HanningZhang/ER-PRM-Data on Huggingface**
+
 ## Training Code
 
 Please run the following bash file:
